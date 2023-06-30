@@ -7,6 +7,9 @@ These catechins are effected by many different aspects such as growing, processi
 
 Other organic compounds such as caffeine are also produced in different amounts in each tea plant are are also effected by the same parameters as catechins. 
 
+# Goals
+The main goal of this case study is to use unsupervised machine learning to map different green teas.
+
 # Sources
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6076941/
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7084675/#:~:text=The%20group%20of%20catechins%20(flavan,)%2Depicatechin%20(EC).
